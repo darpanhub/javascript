@@ -1,0 +1,29 @@
+body{
+    background:linear-gradient(to left, #f7d958, #f58a25);
+}
+
+#clock{
+
+    height: 100px;
+    width: 350px;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left:50%;
+    background-color: rgb(243, 243, 13) ;
+    text-align: center;
+    padding: 20px 0;
+    border: 10px solid ghostwhite;
+    position: absolute;
+    color: rgb(201, 84, 5);
+    border-radius: 40px;
+}
+.time{
+    font-size: 20px ;
+    font-weight: 600;
+}
+h2{
+    font-weight: bold;
+    background-color: white;
+    border-radius: 2px;
+}
+
